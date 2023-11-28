@@ -9,8 +9,7 @@ This Python script utilizes PySpark, a powerful analytics engine, to process and
 2. PySpark ⚡
 
 ## Installation 📥
-To install PySpark, use the following command:
-!pip install pyspark
+To install PySpark, use the following command: #### !pip install pyspark
 
 ## Usage 🚀
 1. Ensure PySpark is installed.
